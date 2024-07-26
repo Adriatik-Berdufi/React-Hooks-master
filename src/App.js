@@ -1,4 +1,4 @@
-import Inizio from "./lezioni/1-useState/inizio/2-useState-basi.js";
+import Inizio from "./lezioni/1-useState/inizio/3-useState-array.js";
 
 function App() {
   return (

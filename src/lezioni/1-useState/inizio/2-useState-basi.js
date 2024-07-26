@@ -26,7 +26,7 @@ const UsoBase = () => {
     }
   };
   const saluta = () => {
-    if (titolo == "Hello") {
+    if (titolo === "Hello") {
       setTitolo("Hi Bro!!");
     } else {
       setTitolo("Hello");

@@ -1,4 +1,4 @@
-import Inizio from "./lezioni/1-useState/inizio/4-useState.object";
+import Inizio from "./lezioni/2-useEffect/inizio/3-useEffect-fetch-data";
 
 function App() {
   return (
